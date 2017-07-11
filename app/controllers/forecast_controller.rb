@@ -18,7 +18,7 @@ class ForecastController < ApplicationController
 
 
 
-    @current_temperature = "Replace this string with your answer."
+    @current_temperature = 62
 
     @current_summary = "Replace this string with your answer."
 
